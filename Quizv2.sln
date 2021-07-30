@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quizv2", "Quizv2\Quizv2.csproj", "{3D301C8B-1CC9-4680-AFB0-66AD860F375E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Quiz_Install", "Quiz_Install\Quiz_Install.vdproj", "{72899007-8DC5-4EAC-910E-EAEAA3F32569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SoftWare|Any CPU = SoftWare|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D301C8B-1CC9-4680-AFB0-66AD860F375E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D301C8B-1CC9-4680-AFB0-66AD860F375E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D301C8B-1CC9-4680-AFB0-66AD860F375E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D301C8B-1CC9-4680-AFB0-66AD860F375E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D301C8B-1CC9-4680-AFB0-66AD860F375E}.SoftWare|Any CPU.ActiveCfg = SoftWare|Any CPU
+		{3D301C8B-1CC9-4680-AFB0-66AD860F375E}.SoftWare|Any CPU.Build.0 = SoftWare|Any CPU
+		{72899007-8DC5-4EAC-910E-EAEAA3F32569}.Debug|Any CPU.ActiveCfg = Debug
+		{72899007-8DC5-4EAC-910E-EAEAA3F32569}.Release|Any CPU.ActiveCfg = Release
+		{72899007-8DC5-4EAC-910E-EAEAA3F32569}.SoftWare|Any CPU.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7694141D-63A1-4360-AE01-E0DA655DA499}
+	EndGlobalSection
+EndGlobal
